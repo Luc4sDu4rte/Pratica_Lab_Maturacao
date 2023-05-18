@@ -7,4 +7,5 @@ Disciplina ministrada pelo professor Alexandre Carvalho
 Este repositório irá conter: 
 
 Atividades realizadas em sala de aula
+
 Trabalhos propostos pelo professor
